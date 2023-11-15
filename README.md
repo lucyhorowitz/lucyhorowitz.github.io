@@ -1,6 +1,3 @@
----
-title: Lucy Horowitz
----
 Hello, I'm Lucy! I'm a fourth-year math major at UChicago. 
 
 I made [MathGloss](https://mathgloss.github.io/MathGloss/) with [Valeria de Paiva](https://vcvpaiva.github.io). I gave a [presentation](https://europroofnet.github.io/cambridge-2023/#horowitz) about it on September 7, 2023.
