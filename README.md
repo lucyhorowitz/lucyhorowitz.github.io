@@ -8,6 +8,6 @@ Two summers ago, I was a student at Budapest Semesters in Mathematics.
 
 I have written two REU papers, one on the [Poincaré group](https://math.uchicago.edu/~may/REU2021/REUPapers/Horowitz.pdf) and one on the [smash product](https://math.uchicago.edu/~may/REU2022/REUPapers/Horowitz.pdf).
 
-Outside of math, I enjoy reading and music. I'm (slowly) teaching myself to play the accordion and the bass guitar.
+Outside of math, I enjoy reading and music. My favorite book is _A Canticle for Leibowitz_ by Walter M. Miller, Jr. I'm (slowly) teaching myself to play the accordion and the bass guitar.
 
 Here is my [GitHub](https://github.com/lucyhorowitz).
