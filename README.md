@@ -2,7 +2,9 @@ Hello, I'm Lucy! I'm a fourth-year math major at UChicago.
 
 I made [MathGloss](https://mathgloss.github.io/MathGloss/) with [Valeria de Paiva](https://vcvpaiva.github.io). I gave a [presentation](https://europroofnet.github.io/cambridge-2023/#horowitz) about it on September 7, 2023. I wrote about it [here](https://arxiv.org/abs/2311.12649).
 
-Last summer, I was an intern at NASA researching applications of simplicial topology to epistemic modal logic.
+This summer I will be at the Hausdorff Institute Trimester on [Prospects of Formal Mathematics](https://www.him-application.uni-bonn.de/programs/future-programs/future-trimester-programs/prospects-of-formal-mathematics/description/) for ~2 weeks, working on MathGloss.
+
+Last summer, I was an intern at NASA under Alwyn Goodloe researching applications of simplicial topology to epistemic modal logic.
 
 Two summers ago, I was a student at Budapest Semesters in Mathematics.
 
