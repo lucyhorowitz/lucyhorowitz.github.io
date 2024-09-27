@@ -1,1 +1,1 @@
-Hello, I'm Lucy! I'm a first-year PhD student in logic at UC Berkeley. My office is Evans 852 and my email is my firstname lastname at berkeley dot edu.
+Hello, I'm Lucy! I'm a first-year PhD student in logic at UC Berkeley. I graduated from UChicago in 2024 with a bachelor's degree in math. My office is Evans 852 and my email is my firstname lastname at berkeley dot edu.
